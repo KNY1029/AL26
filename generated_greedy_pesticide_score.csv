@@ -1,0 +1,5 @@
+step,smiles,score
+0,N=C1OC(c2ccc(Cl)cc2)CC1(Cn1cncn1)c1ccccc1,0.6169582259786639
+1,N=C1OC(c2ccc(Cl)cc2)NC1(Cn1cncn1)c1ccccc1,0.651674823735234
+2,N=C1OC(c2ccc(F)cc2)NC1(Cn1cncn1)c1ccccc1,0.6828210770259499
+3,N=C1OC(c2ccc(F)cc2)N(N)C1(Cn1cncn1)c1ccccc1,0.6979192064455512
